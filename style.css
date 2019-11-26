@@ -34,7 +34,7 @@ body{
 }
 
 .main-nav a:hover{
-	top:5px;
+	top:0px;
 }
 
 .page-content{
@@ -49,7 +49,7 @@ h1{
 }
 
 h2{
-  font-family:Georgia;
+  font-family:Monospace;
 }
 
 .top-nav ul{
