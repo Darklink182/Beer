@@ -30,7 +30,7 @@ body{
 	padding: 5px 10px;
 	position:relative;
 	top:10px;
-	transition: top 300ms ease;
+	transition: bottom 300ms ease;
 }
 
 .main-nav a:hover{
